@@ -1,2 +1,8 @@
-package com.corenetwork.modelo;public enum Palo {
+package com.corenetwork.modelo;
+
+public enum Palo {
+    CORAZONES,
+    PICAS,
+    TREBOLES,
+    DIAMANTES;
 }
